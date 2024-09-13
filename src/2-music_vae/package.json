@@ -1,0 +1,16 @@
+{
+  "name": "test_magenta",
+  "version": "1.0.0",
+  "description": "## Instructions/ source https://magenta.github.io/magenta-js/music/index.html",
+  "main": "musicvae_barebones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tone": "14.7.77",
+    "@magenta/music": "^1.23.1",
+    "http-server": "^14.1.0"
+  }
+}
